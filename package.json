@@ -1,10 +1,11 @@
 {
   "name": "cool-hooks",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "some cool custom hooks for react",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "release": "npm release --tag latest --access public"
   },
   "repository": {
     "url": "https://github.com/mohamadkhazaee/cool-hooks"
