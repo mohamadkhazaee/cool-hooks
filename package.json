@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "release": "npm release --tag latest --access public"
+    "release": "npm publish --tag latest --access public"
   },
   "repository": {
     "url": "https://github.com/mohamadkhazaee/cool-hooks"
